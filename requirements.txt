@@ -1,0 +1,7 @@
+comtypes
+python-pptx-interface 
+edge-tts
+mutagen
+opencv-python 
+moviepy
+pandas
